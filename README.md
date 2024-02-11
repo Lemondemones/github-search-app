@@ -22,10 +22,10 @@ Users should be able to:
 
 The GitHub users API endpoint is `https://api.github.com/users/:username`. So, if you wanted to search for the Octocat profile, you'd be able to make a request to `https://api.github.com/users/octocat`.
 
+![изображение](https://github.com/Lemondemones/github-search-app/assets/88857085/045f7d6f-bc9b-46b9-a058-35c0276fcaf3)
+![изображение](https://github.com/Lemondemones/github-search-app/assets/88857085/22a57f0d-50a1-4190-8a17-4a060f32e348)
+![изображение](https://github.com/Lemondemones/github-search-app/assets/88857085/0a2b5e56-f454-446d-89c6-9e4a4203d38b)
 
-![](./screenshots/Desktop_solution.png)
-![](./screenshots/Desktop_light_solution.png)
-![](./screenshots/Mobile_solution.png)
 
 
 
